@@ -1,0 +1,48 @@
+QMainWindow {
+    background-color: #2c3e50;
+}
+
+QToolBar {
+    background: #34495e;
+    border: none;
+}
+
+QToolButton {
+    background: #1abc9c;
+    border: 1px solid #16a085;
+    border-radius: 4px;
+    margin: 4px;
+    padding: 6px;
+}
+
+QToolButton:hover {
+    background: #16a085;
+}
+
+QToolButton:pressed {
+    background: #148f77;
+}
+
+QLabel#imageLabel {
+    font-size: 18px;
+    font-weight: bold;
+    border: 2px solid #ecf0f1;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #34495e;
+    color: #ecf0f1;
+}
+
+QWidget#leftPanel {
+    border: 2px solid #ecf0f1;
+    border-radius: 10px;
+    background-color: #34495e;
+    padding: 4px;
+    margin: 12px 0;
+}
+
+QSlider {
+    border-bottom: 2px solid #2c3e50;
+    padding: 10px;
+}
+
