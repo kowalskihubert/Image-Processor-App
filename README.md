@@ -68,7 +68,7 @@ Aplikacja desktopowa w języku Python implementująca podstawowe i zaawansowane 
 ## 🌟 Przykładowe Efekty
 Poniżej przedstawiono przykład działania algorytmu regulacji kontrastu:
 
-![Efekt regulacji kontrastu](./static/img/example.png)
+![Efekt regulacji kontrastu](./static/img/contrast-3.png)
 
 *Rysunek 1: Zastosowanie operacji regulacji kontrastu. Obraz oryginalny (środek), zmniejszenie kontrastu (v=0.6) (lewo), zwiększenie kontrstu (v=1.6) (prawo).*
 
