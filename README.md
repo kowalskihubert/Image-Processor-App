@@ -37,3 +37,31 @@ Aplikacja desktopowa w języku Python implementująca podstawowe i zaawansowane 
 [Pełna dokumentacja PDF](Documentation.pdf)
 
 
+## 🚀 Szybki Start
+
+1. **Sklonuj repozytorium:**
+
+   ```bash
+   git clone https://github.com/kowalskihubert/Image-Processor-App.git
+   cd Image-Processor-App
+   ```
+   
+2. **Utwórz i aktywuj środowisko wirtualne:**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # Linux/MacOS
+    venv\Scripts\activate     # Windows
+    ```
+
+3. **Zainstaluj wymagane biblioteki:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+    
+4. Uruchom aplikację:
+
+    ```bash
+    python app.py
+    ```
+
