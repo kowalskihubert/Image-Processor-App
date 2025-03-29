@@ -33,7 +33,7 @@ Aplikacja desktopowa w języku Python implementująca podstawowe i zaawansowane 
 - scikit-learn (dla detekcji koloru dominującego)
 - Matplotlib (dla wizualizacji statystyk)
 
-## 🚀 Szybki Start
-
+## 📘 Dokumentacja
+[Pełna dokumentacja PDF](Documentation.pdf)
 
 
